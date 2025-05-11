@@ -1,0 +1,10 @@
+{
+  "name": "com.loup-awoo.mirror",
+  "version": "96.0.1",
+  "displayName": "Mirror Networking (Fork)",
+  "description": "Fork of Mirror Networking for Unity with package.json.",
+  "unity": "2020.3",
+  "license": "MIT",
+  "keywords": ["network", "multiplayer", "mirror", "unity"],
+  "type": "library"
+}
